@@ -3,3 +3,5 @@
 ```bash
 pip install flask
 ```
+这是02.2太极图版的大概图
+![image](https://github.com/user-attachments/assets/edd61b80-867d-4285-9b8b-608a6e1e200b)
